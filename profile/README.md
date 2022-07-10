@@ -1,4 +1,4 @@
-2anki.net is a open source web aplication to make Anki flashcards faster.
+[2anki.net](https://2anki.net/) is a open source web aplication to make Anki flashcards faster.
 
 The project consists of the following components:
 
